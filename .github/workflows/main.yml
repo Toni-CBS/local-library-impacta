@@ -44,7 +44,7 @@ jobs:
     
     steps:
       - name: Ultimo passo
-        run: date
+        run: echo Passo final
      
         
 
